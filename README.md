@@ -32,7 +32,7 @@ Cell categories:
 - **[Excluded]** Erythroblasts
 - **[Excluded]** Platelets (thrombocytes)
 
-![DatasetImagePresentation](https://storage.googleapis.com/kaggle-datasets-images/2277635/3865189/405d3eefedd5bbc96b9a918d7295f749/dataset-cover.jpg?t=2022-06-27-06-23-38)
+![White Blood Cell Samples](dataset-cover.jpg)
 
 ---
 
